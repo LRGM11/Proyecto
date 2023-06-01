@@ -1,0 +1,13 @@
+C:\Users\java\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\java\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\java\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\java\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\java\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\java\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\java\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\java\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\SISTEMAS\Downloads\proyecto c#\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\SISTEMAS\Downloads\proyecto c#\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\SISTEMAS\Downloads\proyecto c#\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\SISTEMAS\Downloads\proyecto c#\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\SISTEMAS\Downloads\proyecto c#\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
